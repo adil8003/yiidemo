@@ -1,0 +1,39 @@
+1.course add/edit/ remove from org admin 
+ 2.org admin can chnage only branch and subject.
+3.super admin can add /edit course  
+4. sd can assign same course to  multiple org.
+----------------------------------------------------
+
+org login -
+
+1. add user with role- department 
+2.emp can access course with org and dept
+3.course mode - mandetory / optional 
+
+
+admin -course
+
+1.course add - same 
+2.course content -text /pdf/videos- youtube ->link or upload videos
+3.course assesment - same as content  - title mndetory- /mcq /radio/user can write ans /img /videos ,
+solns - points 
+course assesment status - draft/publish/expired
+
+
+
+
+
+
+=============
+
+pull request create
+1.git fetch orgin
+2.git checkout current brabch
+3git merge development
+4. if conflic then resolved
+5.create pull  request
+
+
+
+
+ 
